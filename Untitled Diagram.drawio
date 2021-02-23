@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T03:17:29.499Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Sk3HLVqf8C5dZr_Z8Kv4" version="13.7.5" type="github"><diagram id="-K85PkvrWkYqbW4fEmk9" name="Page-1">3VjLcpswFP0aL5PhYYO9jJ046TTpeMaLtksZro1agagQfvTrewUSYCDjJFPntWGko3uFdM7hIhi4s3h/K0gaPfAQ2MCxwv3AvR44jueP8KqAQwmM/EkJbAQNS8iugSX9Cxq0NJrTELKjQMk5kzQ9BgOeJBDII4wIwXfHYWvOju+akg10gGVAWBf9TkMZleh4ZNX4HdBNZO5sW3okJiZYA1lEQr5rQO7NwJ0JzmXZivczYIo7w0uZN39ktFqYgEQ+JeGW+PIinCdfw/vJt9WUrn/dri/0LFvCcr3hq0ByoVcsD4YGXHyqmnnMygB3ugUhKRJ1T1bAFjyjkvIEQ1ZcSh43Aq4Y3agByVNEIxkz7NjY5LlkNIFZJZ2FoF4Q5sL+0Z3aFX/oO+AxSHHAEJPgasq155yx7u9qBX0NRU3xPA0SbZpNNXXNKzY0tc+gedih+YtaDsH9KD/jBYhqPsAeGUsKo/Jw4ODdrFWuRvrjcaFofcYzMHiseODrNQ3AjKc8y+iKweWjqqJIDMVA9ncRlbBMSaDgHT7Rx4qlICgyAqJOWtTQdM0TOScxZYr4O2BbUAY4j6i23xXVsfpUtc+l6qijaodhwfMkhFB7+wS756SvokbT59p99HXZG56LPK9D3kLARQayqJ179cqgmSRJUFl74Hh/clUtp66KoQzfCxX0fpl3vVY1GnWZt4c91J+tGvk9vvWYYjFLVfHxNqq9LKSoGa5r07yoTTXzuswIWIMQSLmpXpY8YHnRU+NKm7N/HL1c9631Gnf0uqNKmyUQEUQfh8lhT815XSYnpys2JOGVOjdiL+EJgtOQZFFBp/1E6vBBkT90kGr/bLSv91qXonMwnQR396PZUTnW5ch067SiZ/LK1UPYOcO2JMId8lwEcPplJonYgDxlxq7kDUlHPYoaTAAjkm6Pl9sns77DgtPizGMcNWw5ym05pdymzmoehtsTTVoP+bg1UclDZ6LCddW2X25E8yT8HycqfEEkHsKSAnEsVxVzKfjv6qvFea5jtfs+g2f9t/RsdawyVvNf6Nnqm8VM5LyyZ7sfi+/Os5/Fsd6bOnZ0wmhPrrKtjw6nbf0XOxa79Z+TMrz+/eTe/AM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-23T03:17:39.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="p1IR0Pvn0TtoGH_PaB1B" version="13.7.5" type="github">
+  <diagram id="-K85PkvrWkYqbW4fEmk9" name="Page-1">
+    <mxGraphModel dx="574" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="280" width="70" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-4" value="I want to eat Mexican food, but I want to eat as close to my office as possible." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="130" y="170" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="200" y="310" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-6" value="Pre-set max distance to &quot;3 miles&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="360" y="250" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-7" value="&lt;span&gt;Set &quot;Mexican Food&quot; as preferred food type&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="360" y="330" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-8" value="Hit Search" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="360" y="410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-9" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Helvetica;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ga7t-dFnKdL9NbBifjGf-5" target="Ga7t-dFnKdL9NbBifjGf-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="430" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontFamily=Helvetica;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ga7t-dFnKdL9NbBifjGf-5" target="Ga7t-dFnKdL9NbBifjGf-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ga7t-dFnKdL9NbBifjGf-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontFamily=Helvetica;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ga7t-dFnKdL9NbBifjGf-5" target="Ga7t-dFnKdL9NbBifjGf-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="320" as="sourcePoint" />
+            <mxPoint x="300" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
